@@ -11,8 +11,3 @@ hide:
 
 # Home
 
-- [Calculus]
-- [Probability & Statistics]
-- [Linear Algebra]
-- [Group Theory]
-- [Information Theory]

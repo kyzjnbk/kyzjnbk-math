@@ -19,10 +19,13 @@ nav:
         - discrete/index.md
         - Number Theory:    number/index.md
         - Group Theory:     group/index.md
+    - Geometry: geo/index.md
     - Applied Mathematics:
         - applied/index.md
         - Optimization:         optim/index.md
         - Information Theory:   info/index.md
+        - Chaos Theory: chaos/index.md
+        - Game Theory: game/index.md
 
 #-----------------THEME---------------------------------------------
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
