@@ -8,7 +8,9 @@ extra:
 #-----------------Navigation----------------------------------------
 nav:
     - Home: index.md
-    - Calculus: calculus/index.md
+    - Calculus: 
+        - calculus/index.md
+        - Special Functions: calculus/special_func.md
     - Probability & Statistics: prob/index.md
     - Linear Algebra:
         - Tensor: linalg/tensor.md
