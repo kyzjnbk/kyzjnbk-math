@@ -10,12 +10,19 @@ nav:
     - Home: index.md
     - Calculus: 
         - calculus/index.md
-        - Special Functions: calculus/special_func.md
+        - Special Functions:    calculus/special_func.md
     - Probability & Statistics: prob/index.md
     - Linear Algebra:
-        - Tensor: linalg/tensor.md
-    - Group Theory: group/index.md
-    - Information Theory: info/index.md
+        - linalg/index.md
+        - Tensor:   linalg/tensor.md
+    - Discrete Mathematics:
+        - discrete/index.md
+        - Number Theory:    number/index.md
+        - Group Theory:     group/index.md
+    - Applied Mathematics:
+        - applied/index.md
+        - Optimization:         optim/index.md
+        - Information Theory:   info/index.md
 
 #-----------------THEME---------------------------------------------
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
