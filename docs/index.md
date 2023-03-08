@@ -3,6 +3,7 @@ hide:
   - navigation
 ---
 
+[Analysis]: analysis/index.md
 [Calculus]: calculus/index.md
 [Probability & Statistics]: prob/index.md
 [Linear Algebra]: linalg/index.md
